@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://diyp1.112114.xyz./pp.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="1#央视",CCTV-1综合
 rtsp://111.48.16.199:1554/PLTV/88888888/224/3221225684/10000100000000060000000000252976_0.smil
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="1#央视",CCTV-2财经
@@ -33,13 +33,13 @@ rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226055/0000000100000006000000000
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000612
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="1#央视",CCTV-17农业农村
 rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226006/00000001000000060000000000000494.smil
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="1#央视",CCTV-5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="1#央视",CCTV-5+体育赛事
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000503
-#EXTINF:-1 tvg-name="CCTV-4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="1#央视",CCTV-4欧洲
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="1#央视",CCTV-4欧洲
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000558
-#EXTINF:-1 tvg-name="CCTV-4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="1#央视",CCTV-4美洲
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="1#央视",CCTV-4美洲
 rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000559
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="1#央视",CCTV-4K超高清
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="1#央视",CCTV-4K超高清
 http://111.48.34.237/PLTV/88888888/224/3221230571/1.m3u8
 #EXTINF:-1 tvg-name="CCTV-兵器科技" tvg-logo="https://live.fanmingming.com/tv/CCTV-兵器科技.png" group-title="1#央视",CCTV-兵器科技
 rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226272/99180001000000060000000000000297.smil
@@ -336,4 +336,68 @@ rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226059/9918000100000006000000000
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="6#专业",金鹰纪实
 rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226015/99180001000000060000000000000343.smil
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="6#专业",金鹰卡通
-rtsp://111.48.34.138:1554/170000004112/991800010000000500000000000
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000613
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="6#专业",先锋乒羽
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000423
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://live.fanmingming.com/tv/书画频道.png" group-title="6#专业",书画频道
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000424
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://live.fanmingming.com/tv/新动漫.png" group-title="6#专业",新动漫
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000500
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://live.fanmingming.com/tv/环球奇观.png" group-title="6#专业",环球奇观
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000282
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="6#专业",国学频道
+rtsp://111.48.34.138:1554/170000004112/99180001000000060000000000000284
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="6#专业",财富天下
+rtsp://111.48.16.199:1554/PLTV/88888888/224/3221225645/10000100000000060000000000246429_0.smil
+#EXTINF:-1 tvg-name="汽摩频道" tvg-logo="https://live.fanmingming.com/tv/汽摩频道.png" group-title="6#专业",汽摩频道
+rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226202/99180001000000060000000000000303.smil
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="6#专业",卡酷少儿
+http://111.48.34.237/PLTV/88888888/224/3221230428/1.m3u8
+#EXTINF:-1 tvg-name="央广购物" tvg-logo="https://live.fanmingming.com/tv/央广购物.png" group-title="6#专业",央广购物
+rtsp://111.48.34.138:1554/170000004112/99180001000000050000000000000554
+#EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="6#专业",好享购物
+rtsp://111.48.16.199:1554/PLTV/88888888/224/3221226291/99180001000000060000000000000518.smil
+#EXTINF:-1 tvg-name="家有购物" tvg-logo="https://live.fanmingming.com/tv/家有购物.png" group-title="6#专业",家有购物
+http://111.48.34.237/PLTV/88888888/224/3221230461/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4K.png" group-title="6#专业",欢笑剧场4K
+http://111.48.34.237/PLTV/88888888/224/3221230553/1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="6#专业",动漫秀场
+http://111.48.34.237/PLTV/88888888/224/3221230544/1.m3u8
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png" group-title="6#专业",乐游频道
+http://111.48.34.237/PLTV/88888888/224/3221230595/1.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="6#专业",魅力足球
+http://111.48.34.237/PLTV/88888888/224/3221230597/1.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="6#专业",游戏风云
+http://111.48.34.237/PLTV/88888888/224/3221230599/1.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="6#专业",金色学堂
+http://111.48.34.237/PLTV/88888888/224/3221230603/1.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="6#专业",都市剧场
+http://111.48.34.237/PLTV/88888888/224/3221230607/1.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png" group-title="6#专业",法治天地
+http://111.48.34.237/PLTV/88888888/224/3221230609/1.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="6#专业",生活时尚
+http://111.48.34.237/PLTV/88888888/224/3221230611/1.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="6#专业",东方财经
+http://111.48.34.237/PLTV/88888888/224/3221230613/1.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="6#专业",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="6#专业",哒啵赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/纪实科教.png" group-title="6#专业",纪实科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="6#专业",纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="6#专业",哈哈炫动
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="6#专业",优漫卡通
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="6#专业",黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="6#专业",黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="6#专业",睛彩青少
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.fanmingming.com/tv/睛彩篮球.png" group-title="6#专业",睛彩篮球
+http://111.48.34.237/PLTV/88888888/224/3221230336/1.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="6#专业",睛彩竞技
+http://111.48.34.237/PLTV/88888888/224/3221230371/1.m3u8
